@@ -8,7 +8,7 @@ This repository contains the data collection scripts, preprocessing pipeline, an
 
 ## Overview
 
-This repository contains:
+This repository includes:
 - **Notebook:** `model_cards_analysis.ipynb` – notebook for collecting, preprocessing, and analyzing Model Cards.
 - **Data files:**  
   - `model_metadata.csv` – metadata of the 100,000 most-downloaded models from Hugging Face Hub.  
